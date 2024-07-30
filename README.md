@@ -1,3 +1,4 @@
+```
 <?php
 
 namespace Reshadman\OptimisticLocking;
@@ -162,3 +163,4 @@ trait OptimisticLocking
         return $this;
     }
 }
+```
